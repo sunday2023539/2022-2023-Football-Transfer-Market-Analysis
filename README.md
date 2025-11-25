@@ -1,4 +1,4 @@
-
+![SDI Employment Dashboard](https://github.com/sunday2023539/2022-2023-Football-Transfer-Market-Analysis/blob/main/Transfer.png)
 
 
 
@@ -7,10 +7,11 @@
 ----
 ----
 
-1. **Overview**
+**Overview**
 This dashboard provides a comprehensive financial and demographic analysis of the 2022-2023 Football Summer Transfer Window. Leveraging data visualization principles in Tableau, the project offers a quick, high-level snapshot of market activity, player valuation, and talent flow.
+
 ---
-2. **Key Insights & Metrics**
+**Key Insights & Metrics**
 The analysis is driven by key metrics and visualizations designed to answer critical questions about transfer market economics:
 
 **Financial Volume:** Total transfers (2,000) and the ratio of paid vs. free/loan transfers (53.90%).
@@ -25,7 +26,7 @@ The analysis is driven by key metrics and visualizations designed to answer crit
 
 ----
 
-3. **Skills Demonstrated**
+**Skills Demonstrated**
 **Data Analysis:** Creating custom measures like Paid Transfer Rate (using IF/THEN logic) and isolating valuable players.
 
 **Geospatial Visualization:** Utilizing Tableau's built-in mapping capabilities to show global distribution.
